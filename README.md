@@ -1,2 +1,6 @@
-# POO1---Exerc-cio---Google-Charts
-Exercício Google Charts - Programação Orientada a Objetos 1 - BCC 2019-2
+# Sobre ❓
+  Implementação de um gráfico do google charts em Java
+
+# Pré Requisitos ✔️
+- Java instalado
+- IDE Eclipse ou Netbeans
